@@ -1,5 +1,5 @@
-# Card Game Using Golang
+# Basic receiver functions for a card game
 
 ## Currently supports deck generation, random shuffling, dealing, viewing hands, converting between files and decks
 
-Intending on updating functionality and turning into card game known as "Basra"
+Intending on incorporating into card game, "Basra"
